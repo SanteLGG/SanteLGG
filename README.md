@@ -3,7 +3,7 @@
 - I'm a chemistry student at Federal Technological University of Paraná.
 - I'm currently learning Java.
 <div align="center">
-Don't use this as a reference, i don't know what i'm doing.
+Don't use this as a reference, I don't know what I'm doing.
 </div>
 
 ---
