@@ -1,9 +1,9 @@
 
 ### Welcome to my repository!
 - I'm a chemistry student at Federal Technological University of Paraná.
-- I'm currently learning Java.
+- I'm currently learning Java, SQL, Angular and Spring.
 <div align="center">
-Don't use this as a reference, I don't know what I'm doing.
+These are some of the things I did while studying.
 </div>
 
 ---
