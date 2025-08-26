@@ -1,7 +1,7 @@
 
 ### Welcome to my repository!
-- I'm a chemistry student at Federal Technological University of Paraná in Brazil.
-- I'm currently learning Java, SQL and Spring.
+- I'm a chemistry.
+- I'm always learning new things.
 <div align="center">
 These are some of the things I did while studying.
 </div>
